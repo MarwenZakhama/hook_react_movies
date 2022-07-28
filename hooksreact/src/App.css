@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.movieimg{
+  height: 250px;
+  width: 150px;
+}
+.mcard{
+  color: black;
+  display: flex;
+  gap:20px;
+  margin-left:75px;
+  margin-top: 50px;
+}
+.aa{
+  position: absolute;
+  z-index: 10;
+  width: 400px;
+  margin-left:70%
+}
+.filteration input{
+  display: block;
+  margin-left: 37%;
+}
