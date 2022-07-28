@@ -1,5 +1,5 @@
 import React from 'react'
-import StarRatingComponent from 'react-rating-stars-component';
+import StarRatingComponent from 'react-star-rating-component';
 import { useState } from "react";
 function Filter({search}) {
   const [filterrating,setFilterrating]=useState("")

@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css';
 import { Card } from "react-bootstrap";
-import StarRatingComponent from 'react-rating-stars-component';
+import StarRatingComponent from 'react-star-rating-component';
 function MovieList({movies}) {
     return (
         <div className="mcard">  
